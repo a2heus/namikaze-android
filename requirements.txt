@@ -1,0 +1,7 @@
+pystyle
+socks
+urllib
+requests
+requests
+pycryptodome
+pywin32
