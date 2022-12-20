@@ -1,5 +1,4 @@
 pystyle
-socks
 urllib
 requests
 requests
